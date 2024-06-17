@@ -2,8 +2,6 @@
 
 使用 Google 的 API，用来做国际化的文件机翻。
 
-![processing](http://192.168.60.10/frontend/google-translate-scripts/-/raw/main/processing.jpg)
-
 ## Prerequisites
 
 保证文件都在程序的根目录下。
